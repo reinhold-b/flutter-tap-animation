@@ -17,6 +17,8 @@ Tap(
 ```
 ![An example of Tap in use](example.gif)
 
+## Grab the `Tap.dart` file from this repository and add it to your project!
+
 
 
 
